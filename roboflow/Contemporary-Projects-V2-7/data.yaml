@@ -1,0 +1,12 @@
+names:
+- person
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: contemporary-projects-v2
+  url: https://universe.roboflow.com/hkupyloo/contemporary-projects-v2/dataset/7
+  version: 7
+  workspace: hkupyloo
+test: /media/data_16T/chloe/WilliamWhyteOctober/roboflow/Contemporary-Projects-V2-7/test/images
+train: /media/data_16T/chloe/WilliamWhyteOctober/roboflow/Contemporary-Projects-V2-7/train/images
+val: /media/data_16T/chloe/WilliamWhyteOctober/roboflow/Contemporary-Projects-V2-7/valid/images
